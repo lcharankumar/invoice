@@ -1,0 +1,64 @@
+.navbar_custom {
+  /* height: 100vh;
+    background-image: url("./img/BG_Digiverz\ 1.png");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover; */
+  /* color:white; */
+  background-color: black;
+  padding-top: 0;
+  padding-bottom: 0;
+  /* height: 75;
+    padding: 10 */
+}
+
+.page_title {
+  /* width: 336px;
+height: 54px; */
+  /* left: 81px;
+top: 55px; */
+
+  /* font-family: 'Open Sans'; */
+  /* font-style: normal; */
+  font-weight: 600;
+  font-size: 40px;
+  line-height: 54px;
+  /* letter-spacing: 0.07em; */
+
+  color: #000000;
+}
+
+.page_title_1 {
+  /* width: 336px;
+    height: 54px; */
+  /* left: 81px;
+    top: 55px; */
+
+  /* font-family: 'Open Sans'; */
+  /* font-style: normal; */
+  font-weight: 500;
+  font-size: 27px;
+  /* line-height: 54px; */
+  /* letter-spacing: 0.07em; */
+
+  color: #000000;
+}
+
+.page_title_2 {
+  /* width: 336px;
+        height: 54px; */
+  /* left: 81px;
+        top: 55px; */
+
+  /* font-family: 'Open Sans'; */
+  /* font-style: normal; */
+  font-weight: 500;
+  font-size: 27px;
+  /* line-height: 54px; */
+  /* letter-spacing: 0.07em; */
+
+  color: #fd4301;
+}
+.custom_padding{
+    padding-left: 70px;
+}

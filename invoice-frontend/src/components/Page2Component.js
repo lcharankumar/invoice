@@ -115,7 +115,7 @@ const Page2Component = (props) => {
     values:[] } };
     //res.data=TestData3
     try {
-      res = await axios.post('http://127.0.0.1:5000/predict', formData1);
+      res = await axios.post('http://172.17.19.26:5000/predict', formData1);
     } catch (error) {
       window.alert("Some thing went wrong please try again")
       //window.location.reload();
@@ -189,7 +189,7 @@ const Page2Component = (props) => {
     }
    
      try {
-      res = await axios.post("http://127.0.0.1:5000/crop", formData2); 
+      res = await axios.post("http://172.17.19.26:5000/crop", formData2); 
      } catch (error) {
       window.alert("Some thing went wrong please try again")
      }
